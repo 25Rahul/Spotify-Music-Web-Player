@@ -1,4 +1,1 @@
-# MultiChat-Application
-
-Computer Networks Mini Project
-|CONCEPT - Socket Programming 
+# A Web Music Player
